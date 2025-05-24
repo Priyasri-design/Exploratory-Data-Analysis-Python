@@ -1,0 +1,8 @@
+Iris Dataset EDA 
+Contents
+Dataset: The original Iris dataset from [UCI Machine Learning Repository:https://archive.ics.uci.edu/]
+Analysis:
+--Data cleaning and preprocessing
+--Statistical summaries
+--Visualizations (distribution plots, pair plots, correlation heatmaps)
+--Key insights
